@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri May 30 15:45:12 2025 
+Best design point: 1
+Design specs: 
+	ece115c_assign_fanout_1	corner	Nominal - 
+	delay(?wf1 vtime('tran "/VIN") ?value1 0.425 ?edge1 "falling" ?nth1 1 ?td1 0.0 ?tol1 nil ?wf2 vtime('tran "/A") ?value2 0.425 ?edge2 "rising" ?nth2 1 ?tol2 nil ?td2 nil ?stop nil ?multiple nil)		123.4p
+	delay(?wf1 vtime('tran "/VIN") ?value1 0.425 ?edge1 "rising" ?nth1 1 ?td1 0.0 ?tol1 nil ?wf2 vtime('tran "/A") ?value2 0.425 ?edge2 "falling" ?nth2 1 ?tol2 nil ?td2 nil ?stop nil ?multiple nil)		115.9p
+	delay(?wf1 vtime('tran "/VIN") ?value1 0.475 ?edge1 "rising" ?nth1 1 ?td1 0.0 ?tol1 nil ?wf2 vtime('tran "/A") ?value2 0.475 ?edge2 "falling" ?nth2 1 ?tol2 nil ?td2 nil ?stop nil ?multiple nil)		98.17p
+	delay(?wf1 vtime('tran "/VIN") ?value1 0.475 ?edge1 "falling" ?nth1 1 ?td1 0.0 ?tol1 nil ?wf2 vtime('tran "/A") ?value2 0.475 ?edge2 "rising" ?nth2 1 ?tol2 nil ?td2 nil ?stop nil ?multiple nil)		138.7p
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 9
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri May 30 15:45:55 2025 

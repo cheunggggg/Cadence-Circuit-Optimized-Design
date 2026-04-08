@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri May 30 15:36:28 2025 
+Best design point: 1
+Design specs: 
+	ece115c_assign_power_1	corner	Nominal - 
+	average(itime('tran "/V1/PLUS"))		-2.418u
+	(average(itime('tran "/V1/PLUS")) * VDD)		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 13
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri May 30 15:37:30 2025 

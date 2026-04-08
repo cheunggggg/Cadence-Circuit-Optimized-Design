@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cheung
+HostName                       eeapps01.labidm.seas.ucla.edu
+ProcessIdentifier              1742601
+ProcessCreationTime_UTC        1749241625
+ProcessCreationTime_Readable   Fri Jun  6 13:27:05 2025 PDT
+AppIdentifier                  /w/apps4/Cadence/IC231/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /w/home.09/ch/ugrad/cheung/ece115c/ece115c_assign/final/maestro/maestro.sdb
+TimeEditLocked                 Fri Jun  6 13:27:35 2025 PDT
